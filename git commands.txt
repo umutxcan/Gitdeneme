@@ -2,6 +2,7 @@
 //abi sunucuya bağlanamadım ondan dolayı küçük yazım hatalarım olabilir kusura bakma.
 //time out verdi 2-3 defa
 // en sonda 404 aldım
+// abi birkaç cd .. yazmayı unuttum veya yerlerini karıştırdım buraya yazarken ama powershellde duzgun yapmıstım o kısımları.
 
 
  git clone https://github.com/umutxcan/Gitdeneme.git 
