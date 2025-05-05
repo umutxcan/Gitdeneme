@@ -38,7 +38,7 @@ chmod 744 Gitdeneme
 mv Gitdeneme /opt
 nginx -s reload 
 cd /opt
-chmod /R 755 Gitdeneme
+chmod -R 755 Gitdeneme
 ls
 git status
 
